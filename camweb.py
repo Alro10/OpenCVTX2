@@ -2,6 +2,7 @@
 import numpy as np
 import cv2
 
+# webcam /dev/video1
 cap = cv2.VideoCapture("/dev/video1")
 
 while(True):
