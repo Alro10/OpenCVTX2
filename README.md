@@ -23,9 +23,9 @@ $ sudo make install
 May 2018
 * L4T 28.2
 * OpenCV 3.4
-* Python 2.7 and 3.5 
-* GStreamer support added to build script
-* GStreamer OpenCV examples using the Jetson onboard camera 
+* python 2.7 and 3.5 
+* gstreamer support added to build script
+* gstreamer OpenCV examples using the Jetson onboard camera 
 
 
 
